@@ -1,2 +1,2 @@
 # Data_Scientist
-Course of Data Scientis on Python 
+Course of Data Scientist on Python 
